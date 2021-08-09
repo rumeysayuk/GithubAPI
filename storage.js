@@ -1,0 +1,7 @@
+function getAllSearchedLocalStorage(){
+
+}
+
+function clearAllLocalStorage(){
+
+}
